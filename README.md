@@ -27,3 +27,14 @@ This is a simple console-based Java application that calculates the **total mark
 2. Compile the program:
    ```bash
    javac StudentGradeCalculator.java
+   
+
+## Sample Output
+
+Enter the number of subjects: 3
+Enter the marks obtained in subject 1 (out of 100): 85
+Enter the marks obtained in subject 2 (out of 100): 78
+Enter the marks obtained in subject 3 (out of 100): 92
+Total Marks: 255
+Average Percentage: 85.0%
+Grade: B   
